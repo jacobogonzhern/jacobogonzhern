@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ignaciogo.crp1@gmail.com"><img src="https://img.shields.io/badge/Email-jacobo.gonz.hern1%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:jacobo.gonz.hern@gmail.com"><img src="https://img.shields.io/badge/Email-jacobo.gonz.hern%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Prácticas-febrero%202027-2ea44f?style=flat" alt="Prácticas febrero 2027">
 </p>
 
